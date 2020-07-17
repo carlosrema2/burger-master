@@ -1,0 +1,45 @@
+body {
+    /* background-color: #a3a3a3; */
+    background: linear-gradient(0deg, rgba(141, 141, 141) 5%, rgba(44, 43, 42) 100%);
+}
+
+h2,
+h3{
+    text-align: center;
+    color: white;
+}
+
+#logo,
+#newBurger {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#newBurger {
+    margin-bottom: 120px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#left,
+#right {
+    border: 3px solid black;
+    background-color: #ffffff63;
+    padding: 8px;
+}
+
+#order{
+    width: 420px;
+    height: 40px;
+}
+
+#footerNav{
+    background-color: rgba(141, 141, 141, 0.623);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {}
